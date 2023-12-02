@@ -25,7 +25,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     EditText user,pwd;
-    String u="Femy";
+    String u="sneha";
     String p="android";
 
     private AppBarConfiguration appBarConfiguration;
